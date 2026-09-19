@@ -1,7 +1,6 @@
 package assignment2.parta;
 
 public abstract class WandFactory {
-    // Фабричный метод
     public abstract Wand createWand();
 
     public void prepareWand() {
